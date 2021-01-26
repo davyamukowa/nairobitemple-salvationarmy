@@ -1,0 +1,45 @@
+/*
+  Light Brown: #c7bda8
+  Dark Brown: #b49c7f
+  Light Blue: #8e9cb4
+  Dark Blue: #273f6d
+
+ColorPallete:
+Browns
+#c7bda8
+#a7997a
+#b49c7f
+Blues
+#a4aab0
+#273f6d
+#546486
+#677797
+#8e9cb4
+#445c7c
+*/
+a {
+  color: #b49c7f
+}
+
+a:hover {
+  color: #273f6d
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+body {
+  padding-top: 90px;
+  color: #282a29;
+  font-size: 20px;
+  font-family: 'Lato:300';
+  background-color: #e2e2e2;
+}
+
+@media(min-width: 992px) {
+  body {
+    padding-top: 110px;
+  }
+}

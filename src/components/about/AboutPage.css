@@ -1,0 +1,52 @@
+.blockquote {
+  padding: 5px 20px;
+  border: 5px solid #f5e508;
+  font-family: Palatino Linotype, Book Antiqua3, Palatino, serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 30px;
+  /* background: #cebfa4; */
+  /* color: #615A4D; */
+  margin: 10px 0;
+  text-align: center;
+}
+
+.history-section-button {
+  padding: 0;
+  color: #233d68;
+}
+
+.history-section-button-bold {
+  font-weight: 700;
+}
+
+.history-section-button:hover {
+  color:#233d68;
+  text-decoration: none;
+}
+
+.history-section-button:focus {
+  color:#233d68;
+  text-decoration: none;
+}
+
+.history-section-button:active {
+  color:#233d68;
+  text-decoration: none;
+}
+
+@media(min-width: 992px) {
+  .church-ministry h3 {
+    font-size: 2rem;
+  }
+
+  .church-ministry p {
+    margin-right: 10%;
+    margin-bottom: 50px;
+  }
+}
+
+
+.nelson {
+  background-color: #f5e508;
+}
